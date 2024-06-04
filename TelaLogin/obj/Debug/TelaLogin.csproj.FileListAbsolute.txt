@@ -1,0 +1,13 @@
+C:\Users\1mod\Downloads\telaLogin-main\telaLogin-main\TelaLogin\bin\Debug\TelaLogin.exe.config
+C:\Users\1mod\Downloads\telaLogin-main\telaLogin-main\TelaLogin\bin\Debug\TelaLogin.exe
+C:\Users\1mod\Downloads\telaLogin-main\telaLogin-main\TelaLogin\bin\Debug\TelaLogin.pdb
+C:\Users\1mod\Downloads\telaLogin-main\telaLogin-main\TelaLogin\obj\Debug\TelaLogin.csproj.AssemblyReference.cache
+C:\Users\1mod\Downloads\telaLogin-main\telaLogin-main\TelaLogin\obj\Debug\TelaLogin.Properties.Resources.resources
+C:\Users\1mod\Downloads\telaLogin-main\telaLogin-main\TelaLogin\obj\Debug\TelaLogin.csproj.GenerateResource.cache
+C:\Users\1mod\Downloads\telaLogin-main\telaLogin-main\TelaLogin\obj\Debug\TelaLogin.csproj.CoreCompileInputs.cache
+C:\Users\1mod\Downloads\telaLogin-main\telaLogin-main\TelaLogin\obj\Debug\TelaLogin.exe
+C:\Users\1mod\Downloads\telaLogin-main\telaLogin-main\TelaLogin\obj\Debug\TelaLogin.pdb
+C:\Users\1mod\Downloads\telaLogin-main\telaLogin-main\TelaLogin\bin\Debug\Guna.UI2.dll
+C:\Users\1mod\Downloads\telaLogin-main\telaLogin-main\TelaLogin\obj\Debug\TelaLogin.csproj.Up2Date
+C:\Users\1mod\Downloads\telaLogin-main\telaLogin-main\TelaLogin\obj\Debug\TelaLogin.TelaLogin.resources
+C:\Users\1mod\Downloads\telaLogin-main\telaLogin-main\TelaLogin\obj\Debug\TelaLogin.Menu.resources

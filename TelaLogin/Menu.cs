@@ -21,5 +21,24 @@ namespace TelaLogin
         {
 
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void BtnCal_Click(object sender, EventArgs e)
+        {
+            Calculadora calculadora = new Calculadora();
+            calculadora.Show();
+            this.Hide();
+        }
+
+        private void BtnCalMed_Click(object sender, EventArgs e)
+        {
+            CalculadoraMed calculadoraMed = new CalculadoraMed();
+            calculadoraMed.Show();
+            this.Hide();
+        }
     }
 }

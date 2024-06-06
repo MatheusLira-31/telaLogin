@@ -11,3 +11,16 @@ C:\Users\1mod\Downloads\telaLogin-main\telaLogin-main\TelaLogin\bin\Debug\Guna.U
 C:\Users\1mod\Downloads\telaLogin-main\telaLogin-main\TelaLogin\obj\Debug\TelaLogin.csproj.Up2Date
 C:\Users\1mod\Downloads\telaLogin-main\telaLogin-main\TelaLogin\obj\Debug\TelaLogin.TelaLogin.resources
 C:\Users\1mod\Downloads\telaLogin-main\telaLogin-main\TelaLogin\obj\Debug\TelaLogin.Menu.resources
+C:\Users\mlira\Source\Repos\MatheusLira-31\telaLogin\TelaLogin\bin\Debug\TelaLogin.exe.config
+C:\Users\mlira\Source\Repos\MatheusLira-31\telaLogin\TelaLogin\bin\Debug\TelaLogin.exe
+C:\Users\mlira\Source\Repos\MatheusLira-31\telaLogin\TelaLogin\bin\Debug\TelaLogin.pdb
+C:\Users\mlira\Source\Repos\MatheusLira-31\telaLogin\TelaLogin\obj\Debug\TelaLogin.csproj.AssemblyReference.cache
+C:\Users\mlira\Source\Repos\MatheusLira-31\telaLogin\TelaLogin\obj\Debug\TelaLogin.TelaLogin.resources
+C:\Users\mlira\Source\Repos\MatheusLira-31\telaLogin\TelaLogin\obj\Debug\TelaLogin.Menu.resources
+C:\Users\mlira\Source\Repos\MatheusLira-31\telaLogin\TelaLogin\obj\Debug\TelaLogin.Properties.Resources.resources
+C:\Users\mlira\Source\Repos\MatheusLira-31\telaLogin\TelaLogin\obj\Debug\TelaLogin.csproj.GenerateResource.cache
+C:\Users\mlira\Source\Repos\MatheusLira-31\telaLogin\TelaLogin\obj\Debug\TelaLogin.csproj.CoreCompileInputs.cache
+C:\Users\mlira\Source\Repos\MatheusLira-31\telaLogin\TelaLogin\obj\Debug\TelaLogin.csproj.Up2Date
+C:\Users\mlira\Source\Repos\MatheusLira-31\telaLogin\TelaLogin\obj\Debug\TelaLogin.exe
+C:\Users\mlira\Source\Repos\MatheusLira-31\telaLogin\TelaLogin\obj\Debug\TelaLogin.pdb
+C:\Users\mlira\source\repos\MatheusLira-31\telaLogin\TelaLogin\obj\Debug\TelaLogin.Calculadora.resources

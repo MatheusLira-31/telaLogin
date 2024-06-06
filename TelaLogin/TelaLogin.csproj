@@ -81,6 +81,9 @@
     <EmbeddedResource Include="Calculadora.resx">
       <DependentUpon>Calculadora.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="CalculadoraMed.resx">
+      <DependentUpon>CalculadoraMed.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
     </EmbeddedResource>

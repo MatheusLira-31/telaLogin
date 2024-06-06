@@ -24,3 +24,4 @@ C:\Users\mlira\Source\Repos\MatheusLira-31\telaLogin\TelaLogin\obj\Debug\TelaLog
 C:\Users\mlira\Source\Repos\MatheusLira-31\telaLogin\TelaLogin\obj\Debug\TelaLogin.exe
 C:\Users\mlira\Source\Repos\MatheusLira-31\telaLogin\TelaLogin\obj\Debug\TelaLogin.pdb
 C:\Users\mlira\source\repos\MatheusLira-31\telaLogin\TelaLogin\obj\Debug\TelaLogin.Calculadora.resources
+C:\Users\mlira\source\repos\MatheusLira-31\telaLogin\TelaLogin\obj\Debug\TelaLogin.CalculadoraMed.resources

@@ -16,5 +16,10 @@ namespace TelaLogin
         {
             InitializeComponent();
         }
+
+        private void CalculadoraMed_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

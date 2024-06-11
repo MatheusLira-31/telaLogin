@@ -15,30 +15,31 @@ namespace TelaLogin
         public Menu()
         {
             InitializeComponent();
+            this.WindowState = FormWindowState.Maximized;
         }
 
-        private void Menu_Load(object sender, EventArgs e)
-        {
 
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void BtnCal_Click(object sender, EventArgs e)
+        private void calculadora_Click(object sender, EventArgs e)
         {
             Calculadora calculadora = new Calculadora();
             calculadora.Show();
-            this.Hide();
+
         }
 
-        private void BtnCalMed_Click(object sender, EventArgs e)
+        private void calculadoraDeMédia_Click(object sender, EventArgs e)
         {
             CalculadoraMed calculadoraMed = new CalculadoraMed();
             calculadoraMed.Show();
-            this.Hide();
+        }
+
+        private void Menu_Load_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void calculadorasMenu_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

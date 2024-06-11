@@ -55,6 +55,7 @@ namespace TelaLogin
                         MessageBoxIcon.Error);
 
                     TxtUser.Focus();
+                    TxtUser.Text = "";
                     TxtSenha.Text = "";
                 }
                 } catch (Exception ex)

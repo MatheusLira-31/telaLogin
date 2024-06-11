@@ -1,4 +1,6 @@
-﻿namespace TelaLogin
+﻿using System;
+
+namespace TelaLogin
 {
     partial class Menu
     {
@@ -29,41 +31,42 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Menu));
-            this.BtnCal = new Guna.UI2.WinForms.Guna2Button();
-            this.label1 = new System.Windows.Forms.Label();
-            this.BtnCalMed = new Guna.UI2.WinForms.Guna2Button();
+            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
+            this.calculadorasMenu = new System.Windows.Forms.ToolStripMenuItem();
+            this.calculadora = new System.Windows.Forms.ToolStripMenuItem();
+            this.calculadoraDeMédia = new System.Windows.Forms.ToolStripMenuItem();
+            this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
-            // BtnCal
+            // menuStrip1
             // 
-            this.BtnCal.BorderRadius = 20;
-            this.BtnCal.CheckedState.Parent = this.BtnCal;
-            this.BtnCal.CustomImages.Parent = this.BtnCal;
-            resources.ApplyResources(this.BtnCal, "BtnCal");
-            this.BtnCal.ForeColor = System.Drawing.Color.White;
-            this.BtnCal.HoverState.Parent = this.BtnCal;
-            this.BtnCal.Name = "BtnCal";
-            this.BtnCal.ShadowDecoration.Parent = this.BtnCal;
-            this.BtnCal.Click += new System.EventHandler(this.BtnCal_Click);
+            resources.ApplyResources(this.menuStrip1, "menuStrip1");
+            this.menuStrip1.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.calculadorasMenu});
+            this.menuStrip1.LayoutStyle = System.Windows.Forms.ToolStripLayoutStyle.Table;
+            this.menuStrip1.Name = "menuStrip1";
             // 
-            // label1
+            // calculadorasMenu
             // 
-            resources.ApplyResources(this.label1, "label1");
-            this.label1.ForeColor = System.Drawing.Color.Black;
-            this.label1.Name = "label1";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
+            this.calculadorasMenu.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.calculadora,
+            this.calculadoraDeMédia});
+            this.calculadorasMenu.Name = "calculadorasMenu";
+            resources.ApplyResources(this.calculadorasMenu, "calculadorasMenu");
+            this.calculadorasMenu.Click += new System.EventHandler(this.calculadorasMenu_Click);
             // 
-            // BtnCalMed
+            // calculadora
             // 
-            this.BtnCalMed.BorderRadius = 20;
-            this.BtnCalMed.CheckedState.Parent = this.BtnCalMed;
-            this.BtnCalMed.CustomImages.Parent = this.BtnCalMed;
-            resources.ApplyResources(this.BtnCalMed, "BtnCalMed");
-            this.BtnCalMed.ForeColor = System.Drawing.Color.White;
-            this.BtnCalMed.HoverState.Parent = this.BtnCalMed;
-            this.BtnCalMed.Name = "BtnCalMed";
-            this.BtnCalMed.ShadowDecoration.Parent = this.BtnCalMed;
-            this.BtnCalMed.Click += new System.EventHandler(this.BtnCalMed_Click);
+            resources.ApplyResources(this.calculadora, "calculadora");
+            this.calculadora.Name = "calculadora";
+            this.calculadora.Click += new System.EventHandler(this.calculadora_Click);
+            // 
+            // calculadoraDeMédia
+            // 
+            resources.ApplyResources(this.calculadoraDeMédia, "calculadoraDeMédia");
+            this.calculadoraDeMédia.Name = "calculadoraDeMédia";
+            this.calculadoraDeMédia.Click += new System.EventHandler(this.calculadoraDeMédia_Click);
             // 
             // Menu
             // 
@@ -72,20 +75,27 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoValidate = System.Windows.Forms.AutoValidate.EnablePreventFocusChange;
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.Controls.Add(this.BtnCalMed);
-            this.Controls.Add(this.label1);
-            this.Controls.Add(this.BtnCal);
+            this.Controls.Add(this.menuStrip1);
+            this.DoubleBuffered = true;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
             this.Name = "Menu";
-            this.Load += new System.EventHandler(this.Menu_Load);
+            this.Load += new System.EventHandler(this.Menu_Load_1);
+            this.menuStrip1.ResumeLayout(false);
+            this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
+        private void Menu_Load(object sender, EventArgs e)
+        {
+            throw new NotImplementedException();
+        }
+
         #endregion
-        private Guna.UI2.WinForms.Guna2Button BtnCal;
-        private System.Windows.Forms.Label label1;
-        private Guna.UI2.WinForms.Guna2Button BtnCalMed;
+
+        private System.Windows.Forms.MenuStrip menuStrip1;
+        private System.Windows.Forms.ToolStripMenuItem calculadorasMenu;
+        private System.Windows.Forms.ToolStripMenuItem calculadora;
+        private System.Windows.Forms.ToolStripMenuItem calculadoraDeMédia;
     }
 }
